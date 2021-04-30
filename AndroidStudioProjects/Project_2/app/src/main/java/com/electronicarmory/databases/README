@@ -1,0 +1,24 @@
+CS 402 Spring 2021
+Project 2
+#name : Simon Arca Costas
+#date : 22/4/2021
+
+
+The main use of this app is to be able to write a list of
+people with their date of vaccination against covid. In addition,
+you will be able to see the number of cases and the number of people
+recovered against covid.
+
+All data on the number of cases and recovered are obtained
+on the following page: https://api.covid19api.com/summary.
+
+When entering the app you will have to enter a name obligatorily to continue,
+and you also have the option to insert an image.
+
+After creating your name and press continue a new activity will be launched and
+and you will be able to access the menu where the three different vaccines are and you will
+to be able to register patients in them with their vaccination date. Also, there will be
+another button that when you put it you will be able to see the number of cases and the number of people
+recovered against covid.
+
+Link to my video: https://youtu.be/PUK5808tK9E

@@ -1,0 +1,127 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:6594808147738586050",
+      "lastPropertyId": "7:6296700565662768661",
+      "name": "ToDo",
+      "properties": [
+        {
+          "id": "1:8139076461265786679",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:6779466076102668965",
+          "name": "title",
+          "type": 9
+        },
+        {
+          "id": "4:2980526815990554825",
+          "name": "isDone",
+          "type": 1,
+          "flags": 4
+        },
+        {
+          "id": "5:4193568586339043514",
+          "name": "dueDate",
+          "type": 9
+        },
+        {
+          "id": "7:6296700565662768661",
+          "name": "description",
+          "type": 6,
+          "flags": 4
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2:5758665266944371022",
+      "lastPropertyId": "5:9110376065894648120",
+      "name": "JJ",
+      "properties": [
+        {
+          "id": "1:6121071559685744363",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:653937752427681565",
+          "name": "title",
+          "type": 9
+        },
+        {
+          "id": "3:1866117642919552836",
+          "name": "description",
+          "type": 9
+        },
+        {
+          "id": "4:8068318838907307219",
+          "name": "isDone",
+          "type": 1,
+          "flags": 4
+        },
+        {
+          "id": "5:9110376065894648120",
+          "name": "dueDate",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "3:5233118644815823610",
+      "lastPropertyId": "5:3076879248832880991",
+      "name": "Modern",
+      "properties": [
+        {
+          "id": "1:2912944639339582710",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:1851261217844225068",
+          "name": "title",
+          "type": 9
+        },
+        {
+          "id": "3:5418902700919840002",
+          "name": "description",
+          "type": 9
+        },
+        {
+          "id": "4:6990985529428922994",
+          "name": "isDone",
+          "type": 1,
+          "flags": 4
+        },
+        {
+          "id": "5:3076879248832880991",
+          "name": "dueDate",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "3:5233118644815823610",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    3316138187179824004,
+    4360529498478778819
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}
